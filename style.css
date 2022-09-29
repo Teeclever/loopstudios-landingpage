@@ -609,7 +609,7 @@ width: 450px;
     height: 1000px;
     display: flex;
     flex-direction: column-reverse;
-    height: 1500px;
+    height: 1650px;
     justify-content: flex-start;
     
 }
@@ -625,11 +625,11 @@ width: 450px;
     display: flex;
     margin-left: 1vw;
     align-self: center;
-
+      margin-bottom: 20px;
     
 }
 .aside2 h2 {
-font-size: 30px;
+font-size: 35px;
 text-transform: capitalize;
 font-weight: lighter;
 opacity: 70%;
@@ -711,7 +711,7 @@ box-shadow: 1px 1px 7px;
     margin-right: 45vw;
     color: white;
     font-weight: lighter;
-   
+   cursor: pointer;
     width: 130px;
     margin-bottom: 30px;
 
@@ -776,7 +776,7 @@ footer {
   align-items: center;
   }
   .footer {
-  
+  border: none;
   width: 75%;
   align-items: center;
   height: 300px;
