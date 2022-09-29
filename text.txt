@@ -1,0 +1,39 @@
+ 
+
+  Immersive experiences that deliver
+
+
+
+  Founded in 2011, Loopstudios has been producing world-class virtual reality 
+  projects for some of the best companies around the globe. Our award-winning 
+  creations have transformed businesses through digital experiences that bind 
+  to their brand.
+
+  Our creations
+
+  See all
+
+  Deep earth
+  Night arcade
+  Soccer team VR
+  The grid
+  From up above VR
+  Pocket borealis
+  The curiosity
+  Make it fisheye
+
+ 
+
+  © 2021 Loopstudios. All rights reserved.
+
+  <div class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+    Coded by <a href="#">Your Name Here</a>.
+
+
+    
+  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+  <style>
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+  </style>
